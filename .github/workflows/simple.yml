@@ -10,5 +10,5 @@ jobs:
         run: echo "hello"
       - name: multiline script
         run: |
-          node -V
+          node -v
           npm -V
